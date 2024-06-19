@@ -1,13 +1,8 @@
 {
-  "name": "jsdom",
-  "version": "24.1.0",
+  "name": "jsdom-tougher-cookie",
+  "version": "24.1.0-tc",
   "description": "A JavaScript implementation of many web standards",
-  "keywords": [
-    "dom",
-    "html",
-    "whatwg",
-    "w3c"
-  ],
+  "keywords": ["dom", "html", "whatwg", "w3c"],
   "maintainers": [
     "Elijah Insua <tmpvar@gmail.com> (http://tmpvar.com)",
     "Domenic Denicola <d@domenic.me> (https://domenic.me/)",
@@ -33,7 +28,7 @@
     "rrweb-cssom": "^0.7.0",
     "saxes": "^6.0.0",
     "symbol-tree": "^3.2.4",
-    "tough-cookie": "^4.1.4",
+    "tough-cookie": "^5.0.0-rc.2",
     "w3c-xmlserializer": "^5.0.0",
     "webidl-conversions": "^7.0.0",
     "whatwg-encoding": "^3.1.1",
